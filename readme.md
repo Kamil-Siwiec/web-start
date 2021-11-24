@@ -1,4 +1,5 @@
 # Web-start
 
 ## Description
-Web page with a simple JS function, changes background when clicked.
+- Web page with a simple JS function, changes background when clicked.
+- Project status: HOLD
